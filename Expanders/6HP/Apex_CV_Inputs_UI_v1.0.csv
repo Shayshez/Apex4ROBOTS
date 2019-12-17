@@ -1,0 +1,7 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"1";"";"61301021121";"61301021121";"EXPANDER";"WR-PHD 2.54mm Dual Pin Header, 10 Pins =>Code : Con_BTB_PHD_2.54_2_61301021121";"";
+"8";"100.0K";"R-US_R0603";"R0603";"R1, R2, R4, R6, R7, R8, R10, R12";"RESISTOR, American symbol";"";
+"4";"100n";"C-USC0603";"C0603";"C1, C2, C3, C4";"CAPACITOR, American symbol";"";
+"4";"75K";"R-US_R0603";"R0603";"R3, R5, R9, R11";"RESISTOR, American symbol";"";
+"4";"OG-PJ301_PJ301_THONKICONN";"OG-PJ301_PJ301_THONKICONN";"OG-PJ301_WQP_PJ_301M6_NO_HOLE";"J1, J2, J3, J4";"";"";
+"2";"TL072TL072_TSSOP8";"TL072TL072_TSSOP8";"TL072_TSSOP8";"IC1, IC2";"";"";
